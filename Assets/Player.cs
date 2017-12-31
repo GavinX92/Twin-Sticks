@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityStandardAssets;
+using UnityStandardAssets.CrossPlatformInput;
 public class Player : MonoBehaviour {
 
 	// Use this for initialization
@@ -11,6 +11,7 @@ public class Player : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		
+
+		//print(CrossPlatformInputManager
 	}
 }
